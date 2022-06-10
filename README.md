@@ -19,4 +19,5 @@ if you want register with email you can send emanil  stepntradebot@gmail.com
 #usage
 ![image](https://user-images.githubusercontent.com/107195982/173054508-8684f343-4129-4664-a4c3-6dcb0d2df6b7.png)
 You need put program like this and bluestack version 5.5.101.1002 p64(beta)
+you need the first open the stepn app
 
